@@ -1,0 +1,6 @@
+1. Click the ATM.exe to open the project.
+2. Select one CLERK role then input  ID and correspoding password to login.
+ ID: admin
+ Pass: admin
+3.After login into the account Create some New Account to login
+4. Now you will be able to login as a Customer.
